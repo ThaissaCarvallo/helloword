@@ -1,5 +1,5 @@
 # helloword
 
-Esse é meu primeiro código no github
+Esse é meu primeiro projeto JS
 
 by Thaíssa Carvallo
